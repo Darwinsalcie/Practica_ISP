@@ -1,0 +1,14 @@
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\C# .NET Intermedio\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Practica ISP.exe
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\C# .NET Intermedio\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Practica ISP.deps.json
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\C# .NET Intermedio\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Practica ISP.runtimeconfig.json
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\C# .NET Intermedio\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Practica ISP.dll
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\C# .NET Intermedio\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\Practica ISP.pdb
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\C# .NET Intermedio\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Practica ISP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\C# .NET Intermedio\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Practica ISP.AssemblyInfoInputs.cache
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\C# .NET Intermedio\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Practica ISP.AssemblyInfo.cs
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\C# .NET Intermedio\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Practica ISP.csproj.CoreCompileInputs.cache
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\C# .NET Intermedio\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Practica ISP.dll
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\C# .NET Intermedio\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\Practica ISP.dll
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\C# .NET Intermedio\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Practica ISP.pdb
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\C# .NET Intermedio\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\Practica ISP.genruntimeconfig.cache
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\C# .NET Intermedio\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\Practica ISP.dll
